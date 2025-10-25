@@ -89,7 +89,7 @@ async function connectToWA() {
 
       const up = `chalana-MD connected ✅\n\nPREFIX: ${prefix}`;
       await chalana.sendMessage(ownerNumber[0] + "@s.whatsapp.net", {
-        image: { url: `https://github.com/chalana-MD/chalana-MD/blob/main/images/chalana-MD.png?raw=true` },
+        image: { url: `https://raw.githubusercontent.com/chalananima/CHALANAM/refs/heads/main/FTYI/WhatsApp%20Image%202025-09-06%20at%205.32.14%20AM.jpeg` },
         caption: up
       });
 
